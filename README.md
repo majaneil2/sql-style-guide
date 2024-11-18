@@ -2,7 +2,7 @@
 # Majas's SQL Style Guide
 
 This was originally cloned from [Matt Mazur](https://mattmazur.com/) 
-My purpose is to have a consistent style that I am happy with following with [Strong Opinions, Weakly Held](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) 
+My purpose is to have a consistent style that I am happy with [Strong Opinions, Weakly Held](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) 
 ## Example
 
 Here's a non-trivial query to give you an idea of what this style guide looks like in the practice:
